@@ -1,0 +1,78 @@
+Reference:  ./test_vectors/output/testvector_output_8_kHz_60_ms_8_kbps.pcm
+Signals are bit-exact          PASS
+
+Reference:  ./test_vectors/output/testvector_output_8_kHz_60_ms_8_kbps_8_kHz_out.pcm
+Signals are bit-exact          PASS
+
+Reference:  ./test_vectors/output/testvector_output_8_kHz_60_ms_8_kbps_12_kHz_out.pcm
+Signals are bit-exact          PASS
+
+Reference:  ./test_vectors/output/testvector_output_8_kHz_60_ms_8_kbps_16_kHz_out.pcm
+Signals are bit-exact          PASS
+
+Reference:  ./test_vectors/output/testvector_output_8_kHz_40_ms_12_kbps.pcm
+Signals are bit-exact          PASS
+
+Reference:  ./test_vectors/output/testvector_output_8_kHz_20_ms_20_kbps_10_loss_FEC.pcm
+Signals are bit-exact          PASS
+
+Reference:  ./test_vectors/output/testvector_output_12_kHz_60_ms_10_kbps.pcm
+Signals are bit-exact          PASS
+
+Reference:  ./test_vectors/output/testvector_output_12_kHz_60_ms_10_kbps_12_kHz_out.pcm
+Signals are bit-exact          PASS
+
+Reference:  ./test_vectors/output/testvector_output_12_kHz_60_ms_10_kbps_16_kHz_out.pcm
+Signals are bit-exact          PASS
+
+Reference:  ./test_vectors/output/testvector_output_12_kHz_60_ms_10_kbps_32_kHz_out.pcm
+Signals are bit-exact          PASS
+
+Reference:  ./test_vectors/output/testvector_output_12_kHz_60_ms_10_kbps_44100_Hz_out.pcm
+Signals are bit-exact          PASS
+
+Reference:  ./test_vectors/output/testvector_output_12_kHz_60_ms_10_kbps_48_kHz_out.pcm
+Signals are bit-exact          PASS
+
+Reference:  ./test_vectors/output/testvector_output_12_kHz_40_ms_16_kbps.pcm
+Signals are bit-exact          PASS
+
+Reference:  ./test_vectors/output/testvector_output_12_kHz_20_ms_24_kbps_10_loss_FEC.pcm
+Signals are bit-exact          PASS
+
+Reference:  ./test_vectors/output/testvector_output_16_kHz_60_ms_12_kbps.pcm
+Signals are bit-exact          PASS
+
+Reference:  ./test_vectors/output/testvector_output_16_kHz_60_ms_12_kbps_16_kHz_out.pcm
+Signals are bit-exact          PASS
+
+Reference:  ./test_vectors/output/testvector_output_16_kHz_40_ms_20_kbps.pcm
+Signals are bit-exact          PASS
+
+Reference:  ./test_vectors/output/testvector_output_16_kHz_20_ms_32_kbps_10_loss_FEC.pcm
+Signals are bit-exact          PASS
+
+Reference:  ./test_vectors/output/testvector_output_24_kHz_60_ms_16_kbps.pcm
+Signals are bit-exact          PASS
+
+Reference:  ./test_vectors/output/testvector_output_24_kHz_40_ms_24_kbps.pcm
+Signals are bit-exact          PASS
+
+Reference:  ./test_vectors/output/testvector_output_24_kHz_20_ms_40_kbps_10_loss_FEC.pcm
+Signals are bit-exact          PASS
+
+Reference:  ./test_vectors/output/testvector_output_32_kHz_max_8_kHz_20_ms_8_kbps.pcm
+Signals are bit-exact          PASS
+
+Reference:  ./test_vectors/output/testvector_output_32_kHz_max_8_kHz_20_ms_8_kbps_32_kHz_out.pcm
+Signals are bit-exact          PASS
+
+Reference:  ./test_vectors/output/testvector_output_32_kHz_max_8_kHz_20_ms_8_kbps_44100_Hz_out.pcm
+Signals are bit-exact          PASS
+
+Reference:  ./test_vectors/output/testvector_output_32_kHz_max_8_kHz_20_ms_8_kbps_48_kHz_out.pcm
+Signals are bit-exact          PASS
+
+Reference:  ./test_vectors/output/testvector_output_44100_Hz_20_ms_7_kbps.pcm
+Signals are bit-exact          PASS
+
